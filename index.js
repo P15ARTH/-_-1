@@ -1,3 +1,4 @@
+alert("Request you to open in desktop mode");
 let allbtn = document.querySelectorAll('button');
 let cal = document.getElementsByClassName("calculation")[0];
 let display = document.getElementsByClassName("disply-content")[0];
